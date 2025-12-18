@@ -1,0 +1,7 @@
+{
+    "name": "Manda una señal - Mana",
+    "audio": "Manda Una Señal.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}

@@ -1,0 +1,7 @@
+{
+    "name": "505 - Artic Monkeys",
+    "audio": "505.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}

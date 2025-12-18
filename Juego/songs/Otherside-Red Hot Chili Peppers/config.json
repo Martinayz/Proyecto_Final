@@ -1,0 +1,7 @@
+{
+    "name": "Otherside - Red Hot Chili Pappers",
+    "audio": "Otherside.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Baile Inolvidable - Bad Bunny",
+    "audio": "Baile Inolvidable.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}

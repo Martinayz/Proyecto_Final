@@ -1,0 +1,7 @@
+{
+    "name": "Sweet Child o' Mine - Guns N Roses",
+    "audio": "Sweet Child o' Mine.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Pokemon",
+    "audio": "Pokemon.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}

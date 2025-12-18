@@ -1,0 +1,7 @@
+{
+    "name": "Yellow - Coldplay",
+    "audio": "Yellow.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}

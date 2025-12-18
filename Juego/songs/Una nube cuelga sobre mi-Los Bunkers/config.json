@@ -1,0 +1,7 @@
+{
+    "name": "Una Nube Cuelga Sobre Mi - Los Bunkers",
+    "audio": "Una Nube Cuelga Sobre MI.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}

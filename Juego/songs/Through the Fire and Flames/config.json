@@ -1,0 +1,7 @@
+{
+    "name": "Through the Fire and Flames - DragonForce",
+    "audio": "Through The Fire And Flames.mp3",
+    "background": "Fondo.jpg",
+    "chart": "notes.json",
+    "offset_ms": -120
+}
