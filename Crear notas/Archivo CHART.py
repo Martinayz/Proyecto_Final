@@ -87,16 +87,16 @@ def parse_chart(path, section_name="[ExpertSingle]"):
 
     chart = []
     for tick, desc, sustain in notes_raw:
-        if 0 <= desc <= 4:          # solo 5 botones
+        if 0 <= desc <= 4:          
             t_ms = int(round(tick_to_ms(tick)))
             lane = desc
-            chart.append([t_ms, lane])   # OJO: lista, no tupla, para JSON
+            chart.append([t_ms, lane])  
 
     chart.sort(key=lambda x: x[0])
     return chart
 
 def main():
-    chart_file = Path(__file__).with_name("notes.chart")   # cambia el nombre si es distinto
+    chart_file = Path(__file__).with_name("notes.chart")   
     chart = parse_chart(chart_file)
 
     out_path = chart_file.with_name("notes.json")
